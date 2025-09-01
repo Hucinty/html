@@ -1,0 +1,5 @@
+{
+  "name": "Image to HTML Converter",
+  "description": "An AI-powered tool that converts UI mockups from images or text descriptions into functional HTML and CSS code using the Gemini API. Upload an image or describe a webpage, and the AI will generate the corresponding structure and styling.",
+  "requestFramePermissions": []
+}
